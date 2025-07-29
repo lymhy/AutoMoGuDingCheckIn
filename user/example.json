@@ -1,18 +1,18 @@
 {
   "config": {
     "user": {
-      "phone": "工学云手机号",
-      "password": "工学云密码"
+      "phone": "18246238741",
+      "password": "Qwerty123"
     },
     "clockIn": {
       "mode": "daily",
       "location": {
-        "address": "四川省 · 成都市 · 高新区 · 在科创十一街附近",
-        "latitude": "30.559922",
-        "longitude": "104.093023",
-        "province": "四川省",
-        "city": "成都市",
-        "area": "高新区"
+        "address": "	辽宁省 · 沈阳市 · 浑南区 · 白塔街道全运二东路",
+        "latitude": "41.680445",
+        "longitude": "123.464705",
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "area": "浑南区"
       },
       "imageCount": 0,
       "description": [
@@ -35,7 +35,7 @@
       "weekly": {
         "enabled": true,
         "imageCount": 0,
-        "submitTime": 4
+        "submitTime": 6
       },
       "monthly": {
         "enabled": false,
